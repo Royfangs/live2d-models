@@ -1,11 +1,11 @@
 {
   "Version": 3,
   "FileReferences": {
-    "Moc": "https://raw.githubusercontent.com/Royfangs/live2d-models/main/paimon/paimon.moc3",
+    "Moc": "paimon.moc3",
     "Textures": [
-      "https://raw.githubusercontent.com/Royfangs/live2d-models/main/paimon/paimon.4096/texture_00.png"
+      "paimon.4096/texture_00.png"
     ],
-    "Physics": "https://raw.githubusercontent.com/Royfangs/live2d-models/main/paimon/paimon.physics3.json",
+    "Physics": "paimon.physics3.json",
     "Motions": {}
   },
   "Layout": {
