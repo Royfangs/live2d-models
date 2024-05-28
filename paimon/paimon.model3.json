@@ -1,0 +1,97 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "paimon.moc3",
+    "Textures": [
+      "paimon.4096/texture_00.png"
+    ],
+    "Physics": "paimon.physics3.json",
+    "Motions": {}
+  },
+  "Layout": {
+    "height": 2.2,
+    "bottom": 2.3
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {
+      "Enabled": true
+    },
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 5.0
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {
+      "Enabled": true
+    },
+    "Accelerometer": {
+      "Enabled": true
+    },
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {
+      "Enabled": true
+    },
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {
+      "Enabled": true
+    }
+  },
+  "HitAreas": [
+    {
+      "Name": "头部",
+      "Id": "face"
+    },
+    {
+      "Name": "head",
+      "Id": "head_obj"
+    },
+    {
+      "Name": "head1",
+      "Id": "r_m_h"
+    },
+    {
+      "Name": "head2"
+    },
+    {
+      "Name": "headobj",
+      "Id": "head_obj"
+    },
+    {
+      "Name": "body",
+      "Id": "body"
+    },
+    {
+      "Name": "hands",
+      "Id": "right_hand"
+    },
+    {
+      "Name": "hands1",
+      "Id": "right_hand"
+    },
+    {
+      "Name": "sl",
+      "Id": "pifeng",
+      "Order": 2
+    }
+  ],
+  "Options": {}
+}
