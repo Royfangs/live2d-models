@@ -1,0 +1,69 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "nyako.moc3",
+		"Textures": [
+			"nyako.4096/texture_00.png"
+		],
+		"Physics": "nyako.physics3.json",
+		"DisplayInfo": "nyako.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "07tere_sabun",
+				"File": "motions/07tere_sabun.exp3.json"
+			},
+			{
+				"Name": "08aozame_sabun",
+				"File": "motions/08aozame_sabun.exp3.json"
+			},
+			{
+				"Name": "09odorokime_sabun",
+				"File": "motions/09odorokime_sabun.exp3.json"
+			},
+			{
+				"Name": "10kirakirame_sabun",
+				"File": "motions/10kirakirame_sabun.exp3.json"
+			},
+			{
+				"Name": "11okori_sabun",
+				"File": "motions/11okori_sabun.exp3.json"
+			},
+			{
+				"Name": "12huku_sabun",
+				"File": "motions/12huku_sabun.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/01_egao.motion3.json"
+				},
+				{
+					"File": "motions/02_odoroki.motion3.json"
+				},
+				{
+					"File": "motions/03_okoru.motion3.json"
+				},
+				{
+					"File": "motions/04_wink.motion3.json"
+				},
+				{
+					"File": "motions/05_otikomu.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}
