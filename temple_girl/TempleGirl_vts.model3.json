@@ -1,0 +1,37 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "TempleGirl_vts.moc3",
+		"Textures": [
+			"TempleGirl_vts.2048/texture_00.png",
+			"TempleGirl_vts.2048/texture_01.png",
+			"TempleGirl_vts.2048/texture_02.png",
+			"TempleGirl_vts.2048/texture_03.png",
+			"TempleGirl_vts.2048/texture_04.png",
+			"TempleGirl_vts.2048/texture_05.png",
+			"TempleGirl_vts.2048/texture_06.png",
+			"TempleGirl_vts.2048/texture_07.png",
+			"TempleGirl_vts.2048/texture_08.png"
+		],
+		"Physics": "TempleGirl_vts.physics3.json",
+		"DisplayInfo": "TempleGirl_vts.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY",
+				"ParamMouthForm"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}

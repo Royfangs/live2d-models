@@ -1,0 +1,2851 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup2",
+			"Name": "■■■開關■■■"
+		},
+		{
+			"Id": "ParamBlingON",
+			"GroupId": "ParamGroup2",
+			"Name": "眼睛閃亮亮"
+		},
+		{
+			"Id": "ParamAngryON",
+			"GroupId": "ParamGroup2",
+			"Name": "生氣符號"
+		},
+		{
+			"Id": "ParamSmallTearsON",
+			"GroupId": "ParamGroup2",
+			"Name": "小眼淚"
+		},
+		{
+			"Id": "ParamTearsON",
+			"GroupId": "ParamGroup2",
+			"Name": "眼淚"
+		},
+		{
+			"Id": "ParamBlushLineON",
+			"GroupId": "ParamGroup2",
+			"Name": "腮紅線"
+		},
+		{
+			"Id": "ParamDoeEyedON",
+			"GroupId": "ParamGroup2",
+			"Name": "淚眼汪汪"
+		},
+		{
+			"Id": "ParamRedFaceON",
+			"GroupId": "ParamGroup2",
+			"Name": "臉紅"
+		},
+		{
+			"Id": "ParamSweatON",
+			"GroupId": "ParamGroup2",
+			"Name": "冒小汗"
+		},
+		{
+			"Id": "ParamSweatABCON",
+			"GroupId": "ParamGroup2",
+			"Name": "冒大汗"
+		},
+		{
+			"Id": "ParamCheckON",
+			"GroupId": "ParamGroup2",
+			"Name": "鼓臉"
+		},
+		{
+			"Id": "ParamRedLegON",
+			"GroupId": "ParamGroup2",
+			"Name": "紅襪子"
+		},
+		{
+			"Id": "ParamJacketON",
+			"GroupId": "ParamGroup2",
+			"Name": "★夾克★"
+		},
+		{
+			"Id": "ParamreTractTheArmR",
+			"GroupId": "ParamGroup2",
+			"Name": "★收手R★"
+		},
+		{
+			"Id": "ParamHandDownR",
+			"GroupId": "ParamGroup2",
+			"Name": "☆放下手R☆"
+		},
+		{
+			"Id": "ParamThinkingHandON",
+			"GroupId": "ParamGroup2",
+			"Name": "沉思手"
+		},
+		{
+			"Id": "ParamreTractTheArmL",
+			"GroupId": "ParamGroup2",
+			"Name": "★收手L★"
+		},
+		{
+			"Id": "ParamFistON",
+			"GroupId": "ParamGroup2",
+			"Name": "握拳手"
+		},
+		{
+			"Id": "ParamWavingHandsON",
+			"GroupId": "ParamGroup2",
+			"Name": "揮手"
+		},
+		{
+			"Id": "ParamWavingHandsAnimation",
+			"GroupId": "ParamGroup2",
+			"Name": "揮手 動畫用"
+		},
+		{
+			"Id": "ParamHolddingHands_BubbleTea",
+			"GroupId": "ParamGroup2",
+			"Name": "喝珍奶"
+		},
+		{
+			"Id": "ParamHolddingHands_GreanTea",
+			"GroupId": "ParamGroup2",
+			"Name": "切換綠茶"
+		},
+		{
+			"Id": "ParamKittenHandsON",
+			"GroupId": "ParamGroup2",
+			"Name": "貓貓手"
+		},
+		{
+			"Id": "ParamChinRestHands",
+			"GroupId": "ParamGroup2",
+			"Name": "拖下巴手"
+		},
+		{
+			"Id": "ParamGamingON",
+			"GroupId": "ParamGroup2",
+			"Name": "遊戲手把"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup3",
+			"Name": "■■■動畫■■■"
+		},
+		{
+			"Id": "ParamSweat",
+			"GroupId": "ParamGroup3",
+			"Name": "汗"
+		},
+		{
+			"Id": "ParamSweatA",
+			"GroupId": "ParamGroup3",
+			"Name": "汗A"
+		},
+		{
+			"Id": "ParamSweatB",
+			"GroupId": "ParamGroup3",
+			"Name": "汗B"
+		},
+		{
+			"Id": "ParamSweatC",
+			"GroupId": "ParamGroup3",
+			"Name": "汗C"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup4",
+			"Name": "■■■遊戲把手■■■"
+		},
+		{
+			"Id": "ParamMushroomHeadLX",
+			"GroupId": "ParamGroup4",
+			"Name": "蘑菇頭 L X"
+		},
+		{
+			"Id": "ParamMushroomHeadLY",
+			"GroupId": "ParamGroup4",
+			"Name": "蘑菇頭 L Y"
+		},
+		{
+			"Id": "ParamGameXYAB",
+			"GroupId": "ParamGroup4",
+			"Name": "遊戲手把 按按鍵"
+		},
+		{
+			"Id": "ParamGamePadLB",
+			"GroupId": "ParamGroup4",
+			"Name": "遊戲手把 LB"
+		},
+		{
+			"Id": "ParamGamePadLT",
+			"GroupId": "ParamGroup4",
+			"Name": "遊戲手把 LT"
+		},
+		{
+			"Id": "ParamMushroomHeadRX",
+			"GroupId": "ParamGroup4",
+			"Name": "蘑菇頭 R X"
+		},
+		{
+			"Id": "ParamMushroomHeadRY",
+			"GroupId": "ParamGroup4",
+			"Name": "蘑菇頭 R Y"
+		},
+		{
+			"Id": "ParamGamePadRB",
+			"GroupId": "ParamGroup4",
+			"Name": "遊戲手把 RB"
+		},
+		{
+			"Id": "ParamGamePadRT",
+			"GroupId": "ParamGroup4",
+			"Name": "遊戲手把 RT"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup5",
+			"Name": "■■■XYZ■■■"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup5",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup5",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup5",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup5",
+			"Name": "身體旋轉　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup5",
+			"Name": "身體旋轉　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup5",
+			"Name": "身體旋轉　Z"
+		},
+		{
+			"Id": "ParamSharkPutt",
+			"GroupId": "ParamGroup5",
+			"Name": "搖屁股"
+		},
+		{
+			"Id": "ParamFootOutL",
+			"GroupId": "ParamGroup5",
+			"Name": "踏腳L"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "■■■眼睛■■■"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右眼 開閉"
+		},
+		{
+			"Id": "ParamEyeSmile",
+			"GroupId": "ParamGroup",
+			"Name": "眼　微笑"
+		},
+		{
+			"Id": "ParamEyeShack",
+			"GroupId": "ParamGroup",
+			"Name": "眼　驚訝"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "眼球 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "眼球 Y"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup6",
+			"Name": "■■■眉毛■■■"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup6",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup6",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "ParamGroup6",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "ParamGroup6",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup6",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup6",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup6",
+			"Name": "左眉　變形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup6",
+			"Name": "右眉　變形"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup7",
+			"Name": "■■■嘴巴■■■"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup7",
+			"Name": "嘴部　變形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup7",
+			"Name": "嘴巴　張開和閉合"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup7",
+			"Name": "臉頰紅暈"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "●呼吸●"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup8",
+			"Name": "■■■物理■■■"
+		},
+		{
+			"Id": "ParamEyelashLUpR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛L upR"
+		},
+		{
+			"Id": "ParamEyelashLUpR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛L upR2"
+		},
+		{
+			"Id": "ParamEyelashLUpC",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛L upC"
+		},
+		{
+			"Id": "ParamEyelashLUpC2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛L upC2"
+		},
+		{
+			"Id": "ParamEyelashLUpL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛L upL"
+		},
+		{
+			"Id": "ParamEyelashLUpL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛L upL2"
+		},
+		{
+			"Id": "ParamEyelashLDownR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛L DownR"
+		},
+		{
+			"Id": "ParamEyelashLDownR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛L DownR2"
+		},
+		{
+			"Id": "ParamEyelashLDownL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛L DownL"
+		},
+		{
+			"Id": "ParamEyelashLDownL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛L DownL2"
+		},
+		{
+			"Id": "ParamPupilL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　瞳孔L"
+		},
+		{
+			"Id": "ParamPupilL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　瞳孔L2"
+		},
+		{
+			"Id": "ParamReflection_1_1L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　亮點1_1L"
+		},
+		{
+			"Id": "ParamReflection_1_2L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　亮點1_2L"
+		},
+		{
+			"Id": "ParamReflection_2_1L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　亮點2_1L"
+		},
+		{
+			"Id": "ParamReflection_2_2L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　亮點2_2L"
+		},
+		{
+			"Id": "ParamIris_1_1L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點1_1L"
+		},
+		{
+			"Id": "ParamIris_1_2L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點1_2L"
+		},
+		{
+			"Id": "ParamIris_1_3L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點1_3L"
+		},
+		{
+			"Id": "ParamIris_2_1L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點2_1L"
+		},
+		{
+			"Id": "ParamIris_2_2L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點2_2L"
+		},
+		{
+			"Id": "ParamIris_3_1L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點3_1L"
+		},
+		{
+			"Id": "ParamIris_3_2L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點3_2L"
+		},
+		{
+			"Id": "ParamIris_3_3L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點3_3L"
+		},
+		{
+			"Id": "ParamIris_detail_1_1_L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　中間亮點1_1L"
+		},
+		{
+			"Id": "ParamIris_detail_1_2_L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　中間亮點1_2L"
+		},
+		{
+			"Id": "ParamIris_detail_2_1_L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　中間亮點2_1L"
+		},
+		{
+			"Id": "ParamIris_detail_2_2_L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　中間亮點2_2L"
+		},
+		{
+			"Id": "ParamEyeBallL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　眼球 L"
+		},
+		{
+			"Id": "ParamEyeBallL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　眼球 L2"
+		},
+		{
+			"Id": "ParamEyeLight1_1L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　上亮點1_1L"
+		},
+		{
+			"Id": "ParamEyeLight1_2L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　上亮點1_2L"
+		},
+		{
+			"Id": "ParamEyeLight2_1L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　上亮點2_1L"
+		},
+		{
+			"Id": "ParamEyeLight2_2L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　上亮點2_2L"
+		},
+		{
+			"Id": "ParamEyelashRUpR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛R upR"
+		},
+		{
+			"Id": "ParamEyelashRUpR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛R upR2"
+		},
+		{
+			"Id": "ParamEyelashRUpC",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛R upC"
+		},
+		{
+			"Id": "ParamEyelashRUpC2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛R upC2"
+		},
+		{
+			"Id": "ParamEyelashRUpL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛R upL"
+		},
+		{
+			"Id": "ParamEyelashRUpL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛R upL2"
+		},
+		{
+			"Id": "ParamEyelashRDownR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛R DownR"
+		},
+		{
+			"Id": "ParamEyelashRDownR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛R DownR2"
+		},
+		{
+			"Id": "ParamEyelashRDownL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛R DownL"
+		},
+		{
+			"Id": "ParamEyelashRDownL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　睫毛R DownL2"
+		},
+		{
+			"Id": "ParamPupilR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　瞳孔R"
+		},
+		{
+			"Id": "ParamPupilR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　瞳孔R2"
+		},
+		{
+			"Id": "ParamReflection_1_1R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　亮點1_1R"
+		},
+		{
+			"Id": "ParamReflection_1_2R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　亮點1_2R"
+		},
+		{
+			"Id": "ParamReflection_2_1R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　亮點2_1R"
+		},
+		{
+			"Id": "ParamReflection_2_2R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　亮點2_2R"
+		},
+		{
+			"Id": "ParamIris_1_1R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點1_1R"
+		},
+		{
+			"Id": "ParamIris_1_2R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點1_2R"
+		},
+		{
+			"Id": "ParamIris_1_3R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點1_3R"
+		},
+		{
+			"Id": "ParamIris_2_1R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點2_1R"
+		},
+		{
+			"Id": "ParamIris_2_2R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點2_2R"
+		},
+		{
+			"Id": "ParamIris_3_1R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點3_1R"
+		},
+		{
+			"Id": "ParamIris_3_2R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點3_2R"
+		},
+		{
+			"Id": "ParamIris_3_3R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　下亮點3_3R"
+		},
+		{
+			"Id": "ParamIris_detail_1_1_R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　中間亮點1_1R"
+		},
+		{
+			"Id": "ParamIris_detail_1_2_R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　中間亮點1_2R"
+		},
+		{
+			"Id": "ParamIris_detail_2_1_R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　中間亮點2_1R"
+		},
+		{
+			"Id": "ParamIris_detail_2_2_R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　中間亮點2_2R"
+		},
+		{
+			"Id": "ParamEyeBallR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　眼球 R"
+		},
+		{
+			"Id": "ParamEyeBallR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　眼球 R2"
+		},
+		{
+			"Id": "ParamEyeLight1_1R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　上亮點1_1R"
+		},
+		{
+			"Id": "ParamEyeLight1_2R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　上亮點1_2R"
+		},
+		{
+			"Id": "ParamEyeLight2_1R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　上亮點2_1R"
+		},
+		{
+			"Id": "ParamEyeLight2_2R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　上亮點2_2R"
+		},
+		{
+			"Id": "ParamEyeShinyL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　眼睛閃亮亮L"
+		},
+		{
+			"Id": "ParamEyeShinyL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　眼睛閃亮亮L2"
+		},
+		{
+			"Id": "ParamEyeShinyR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　眼睛閃亮亮R"
+		},
+		{
+			"Id": "ParamEyeShinyR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　眼睛閃亮亮R2"
+		},
+		{
+			"Id": "ParamAngry",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　生氣符號"
+		},
+		{
+			"Id": "ParamAngry2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　生氣符號2"
+		},
+		{
+			"Id": "ParamAngry3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　生氣符號3"
+		},
+		{
+			"Id": "ParamSmallTearA_R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　小眼淚A R"
+		},
+		{
+			"Id": "ParamSmallTearA_R2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　小眼淚A R2"
+		},
+		{
+			"Id": "ParamSmallTearB_R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　小眼淚B R"
+		},
+		{
+			"Id": "ParamSmallTearB_R2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　小眼淚B R2"
+		},
+		{
+			"Id": "ParamSmallTearA_L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　小眼淚A L"
+		},
+		{
+			"Id": "ParamSmallTearA_L2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　小眼淚A L2"
+		},
+		{
+			"Id": "ParamSmallTearB_L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　小眼淚B L"
+		},
+		{
+			"Id": "ParamSmallTearB_L2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　小眼淚B L2"
+		},
+		{
+			"Id": "ParamTear_R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　眼淚 R"
+		},
+		{
+			"Id": "ParamTear_R2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　眼淚 R2"
+		},
+		{
+			"Id": "ParamTear_L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　眼淚 L"
+		},
+		{
+			"Id": "ParamTear_L2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　眼淚 L2"
+		},
+		{
+			"Id": "ParamTeary_Eyed_A_R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 A R"
+		},
+		{
+			"Id": "ParamTeary_Eyed_A_R2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 A R2"
+		},
+		{
+			"Id": "ParamTeary_Eyed_A_R3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 A R3"
+		},
+		{
+			"Id": "ParamTeary_Eyed_B_R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 B R"
+		},
+		{
+			"Id": "ParamTeary_Eyed_B_R2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 B R2"
+		},
+		{
+			"Id": "ParamTeary_Eyed_B_R3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 B R3"
+		},
+		{
+			"Id": "ParamTeary_Eyed_C_R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 C R"
+		},
+		{
+			"Id": "ParamTeary_Eyed_C_R2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 C R2"
+		},
+		{
+			"Id": "ParamTeary_Eyed_C_R3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 C R3"
+		},
+		{
+			"Id": "ParamTeary_Eyed_D_R",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 D R"
+		},
+		{
+			"Id": "ParamTeary_Eyed_D_R2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 D R2"
+		},
+		{
+			"Id": "ParamTeary_Eyed_D_R3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 D R3"
+		},
+		{
+			"Id": "ParamTeary_Eyed_A_L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 A L"
+		},
+		{
+			"Id": "ParamTeary_Eyed_A_L2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 A L2"
+		},
+		{
+			"Id": "ParamTeary_Eyed_A_L3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 A L3"
+		},
+		{
+			"Id": "ParamTeary_Eyed_B_L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 B L"
+		},
+		{
+			"Id": "ParamTeary_Eyed_B_L2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 B L2"
+		},
+		{
+			"Id": "ParamTeary_Eyed_B_L3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 B L3"
+		},
+		{
+			"Id": "ParamTeary_Eyed_C_L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 C L"
+		},
+		{
+			"Id": "ParamTeary_Eyed_C_L2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 C L2"
+		},
+		{
+			"Id": "ParamTeary_Eyed_C_L3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 C L3"
+		},
+		{
+			"Id": "ParamTeary_Eyed_D_L",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 D L"
+		},
+		{
+			"Id": "ParamTeary_Eyed_D_L2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 D L2"
+		},
+		{
+			"Id": "ParamTeary_Eyed_D_L3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　淚眼汪汪 D L3"
+		},
+		{
+			"Id": "ParamHairFrontC_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　前發C 1"
+		},
+		{
+			"Id": "ParamHairFrontC_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動 前髮 C2"
+		},
+		{
+			"Id": "ParamHairFrontR_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　前發R_1"
+		},
+		{
+			"Id": "ParamHairFrontR_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動 前髮 R_2"
+		},
+		{
+			"Id": "ParamHairFrontR2_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　前發R2_1"
+		},
+		{
+			"Id": "ParamHairFrontR2_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動 前髮 R2_2"
+		},
+		{
+			"Id": "ParamHairFrontR3_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　前發R3_1"
+		},
+		{
+			"Id": "ParamHairFrontR3_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動 前髮 R3_2"
+		},
+		{
+			"Id": "ParamHairFrontR4_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　前發R4_1"
+		},
+		{
+			"Id": "ParamHairFrontR4_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動 前髮 R4_2"
+		},
+		{
+			"Id": "ParamHairFrontL_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　前發L_1"
+		},
+		{
+			"Id": "ParamHairFrontL_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動 前髮 L_2"
+		},
+		{
+			"Id": "ParamHairFrontL2_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　前發L2_1"
+		},
+		{
+			"Id": "ParamHairFrontL2_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動 前髮 L2_2"
+		},
+		{
+			"Id": "ParamHairFrontL3_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　前發L3_1"
+		},
+		{
+			"Id": "ParamHairFrontL3_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動 前髮 L3_2"
+		},
+		{
+			"Id": "ParamHairFrontL4_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　前發L4_1"
+		},
+		{
+			"Id": "ParamHairFrontL4_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動 前髮 L4_2"
+		},
+		{
+			"Id": "ParamHairFrontL6_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　前發L6_1"
+		},
+		{
+			"Id": "ParamHairFrontL5_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　前發L5_1"
+		},
+		{
+			"Id": "ParamHairFrontL5_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動 前髮 L5_2"
+		},
+		{
+			"Id": "ParamHairFrontL6_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動 前髮 L6_2"
+		},
+		{
+			"Id": "ParamHairBesideL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　側發L"
+		},
+		{
+			"Id": "ParamHairBesideL_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　側發L_2"
+		},
+		{
+			"Id": "ParamHairBesideR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　側發R"
+		},
+		{
+			"Id": "ParamHairBesideR_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　側發R_2"
+		},
+		{
+			"Id": "ParamHairBackL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L"
+		},
+		{
+			"Id": "ParamHairBackL_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L_2"
+		},
+		{
+			"Id": "ParamHairBackL2_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L2_1"
+		},
+		{
+			"Id": "ParamHairBackL2_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L2_2"
+		},
+		{
+			"Id": "ParamHairBackL3_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L3_1"
+		},
+		{
+			"Id": "ParamHairBackL3_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L3_2"
+		},
+		{
+			"Id": "ParamHairBackL4_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L4_1"
+		},
+		{
+			"Id": "ParamHairBackL4_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L4_2"
+		},
+		{
+			"Id": "ParamHairBackL5_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L5_1"
+		},
+		{
+			"Id": "ParamHairBackL5_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L5_2"
+		},
+		{
+			"Id": "ParamHairBackL6_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L6_1"
+		},
+		{
+			"Id": "ParamHairBackL6_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L6_2"
+		},
+		{
+			"Id": "ParamHairBackL7_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L7_1"
+		},
+		{
+			"Id": "ParamHairBackL7_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L7_2"
+		},
+		{
+			"Id": "ParamHairBackL8_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L8_1"
+		},
+		{
+			"Id": "ParamHairBackL8_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發L8_2"
+		},
+		{
+			"Id": "ParamHairBackR_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R_1"
+		},
+		{
+			"Id": "ParamHairBackR_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R_2"
+		},
+		{
+			"Id": "ParamHairBackR2_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R2_1"
+		},
+		{
+			"Id": "ParamHairBackR2_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R2_2"
+		},
+		{
+			"Id": "ParamHairBackR3_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R3_1"
+		},
+		{
+			"Id": "ParamHairBackR3_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R3_2"
+		},
+		{
+			"Id": "ParamHairBackR4_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R4_1"
+		},
+		{
+			"Id": "ParamHairBackR4_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R4_2"
+		},
+		{
+			"Id": "ParamHairBackR5_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R5_1"
+		},
+		{
+			"Id": "ParamHairBackR5_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R5_2"
+		},
+		{
+			"Id": "ParamHairBackR6_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R6_1"
+		},
+		{
+			"Id": "ParamHairBackR6_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R6_2"
+		},
+		{
+			"Id": "ParamHairBackR7_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R7_1"
+		},
+		{
+			"Id": "ParamHairBackR7_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R7_2"
+		},
+		{
+			"Id": "ParamHairBackR8_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R8_1"
+		},
+		{
+			"Id": "ParamHairBackR8_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R8_2"
+		},
+		{
+			"Id": "ParamHairBackR9_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R9_1"
+		},
+		{
+			"Id": "ParamHairBackR9_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R9_2"
+		},
+		{
+			"Id": "ParamHairBackR10_1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R10_1"
+		},
+		{
+			"Id": "ParamHairBackR10_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發R10_2"
+		},
+		{
+			"Id": "ParamHairBackC",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發C"
+		},
+		{
+			"Id": "ParamHairBackC_2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後發C_2"
+		},
+		{
+			"Id": "ParamSkirtX1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　裙子X1"
+		},
+		{
+			"Id": "ParamSkirtX2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　裙子X2"
+		},
+		{
+			"Id": "ParamSkirtX3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　裙子X3"
+		},
+		{
+			"Id": "ParamSkirtX4",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　裙子X4"
+		},
+		{
+			"Id": "ParamSkirtY1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　裙子Y1"
+		},
+		{
+			"Id": "ParamSkirtY2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　裙子Y2"
+		},
+		{
+			"Id": "ParamSkirtY3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　裙子Y3"
+		},
+		{
+			"Id": "ParamSkirtY4",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　裙子Y4"
+		},
+		{
+			"Id": "ParamCheongsamX1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　旗袍X1"
+		},
+		{
+			"Id": "ParamCheongsamX2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　旗袍X2"
+		},
+		{
+			"Id": "ParamCheongsamX3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　旗袍X3"
+		},
+		{
+			"Id": "ParamCheongsamY1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　旗袍Y1"
+		},
+		{
+			"Id": "ParamCheongsamY2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　旗袍Y2"
+		},
+		{
+			"Id": "ParamCheongsamY3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　旗袍Y3"
+		},
+		{
+			"Id": "ParamShawlX1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩X1"
+		},
+		{
+			"Id": "ParamShawlX2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩X2"
+		},
+		{
+			"Id": "ParamShawlY1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩Y1"
+		},
+		{
+			"Id": "ParamShawlY2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩Y2"
+		},
+		{
+			"Id": "ParamShawlL1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩L 1"
+		},
+		{
+			"Id": "ParamShawlL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩L 2"
+		},
+		{
+			"Id": "ParamShawlR1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩R 1"
+		},
+		{
+			"Id": "ParamShawlR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩R 2"
+		},
+		{
+			"Id": "ParamDrinks",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　飲料"
+		},
+		{
+			"Id": "ParamDrinks2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　飲料2"
+		},
+		{
+			"Id": "ParamDrinksBubble",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　飲料珍珠"
+		},
+		{
+			"Id": "ParamGamePadL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　遊戲手把按壓感L"
+		},
+		{
+			"Id": "ParamRaiseHandSleeveTippetR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　舉手袖子上的帶子R"
+		},
+		{
+			"Id": "ParamRaiseHandSleeveTippetR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　舉手袖子上的帶子R2"
+		},
+		{
+			"Id": "ParamTassel",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　裙下流蘇"
+		},
+		{
+			"Id": "ParamTassel2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　裙下流蘇 2"
+		},
+		{
+			"Id": "ParamTassel3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　裙下流蘇 3"
+		},
+		{
+			"Id": "ParamTassel4",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　裙下流蘇 4"
+		},
+		{
+			"Id": "ParamRopeUpR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　結繩套 up R"
+		},
+		{
+			"Id": "ParamRopeUpR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　結繩套 up R2"
+		},
+		{
+			"Id": "ParamRopeDownR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　結繩套 down R"
+		},
+		{
+			"Id": "ParamRopeDownR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　結繩套 down R2"
+		},
+		{
+			"Id": "ParamFootBallL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　腳球 L"
+		},
+		{
+			"Id": "ParamFootBallL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　腳球 L2"
+		},
+		{
+			"Id": "ParamFootBallR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　腳球 R"
+		},
+		{
+			"Id": "ParamFootBallR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　腳球 R2"
+		},
+		{
+			"Id": "ParamHatY",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　帽子Y"
+		},
+		{
+			"Id": "ParamHatY2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　帽子Y2"
+		},
+		{
+			"Id": "ParamHatX",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　帽子X"
+		},
+		{
+			"Id": "ParamHatX2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　帽子X2"
+		},
+		{
+			"Id": "ParamRedRibbonL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　紅帶子L"
+		},
+		{
+			"Id": "ParamRedRibbonL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　紅帶子L2"
+		},
+		{
+			"Id": "ParamRedRibbonL3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　紅帶子L3"
+		},
+		{
+			"Id": "ParamRedRibbonLY",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　紅帶子L Y"
+		},
+		{
+			"Id": "ParamRedRibbonLY2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　紅帶子LY2"
+		},
+		{
+			"Id": "ParamRedRibbonR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　紅帶子R"
+		},
+		{
+			"Id": "ParamRedRibbonR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　紅帶子R2"
+		},
+		{
+			"Id": "ParamRedRibbonR3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　紅帶子R3"
+		},
+		{
+			"Id": "ParamRedRibbonRY",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　紅帶子R Y"
+		},
+		{
+			"Id": "ParamRedRibbonRY2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　紅帶子RY2"
+		},
+		{
+			"Id": "ParamJacketFrontY",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　夾克前 Y"
+		},
+		{
+			"Id": "ParamJacketFrontY2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　夾克前 Y2"
+		},
+		{
+			"Id": "ParamJacketFrontY3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　夾克前 Y3"
+		},
+		{
+			"Id": "ParamJacketFrontX",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　夾克前 X"
+		},
+		{
+			"Id": "ParamJacketFrontX2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　夾克前 X2"
+		},
+		{
+			"Id": "ParamJacketFrontX3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　夾克前 X3"
+		},
+		{
+			"Id": "ParamTassel_AL_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ALY"
+		},
+		{
+			"Id": "ParamTassel_AL_Y2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ALY2"
+		},
+		{
+			"Id": "ParamTassel_AL_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ALX"
+		},
+		{
+			"Id": "ParamTassel_AL_X2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ALX2"
+		},
+		{
+			"Id": "ParamTassel_AL_X3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ALX3"
+		},
+		{
+			"Id": "ParamTassel_BL_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 BLY"
+		},
+		{
+			"Id": "ParamTassel_BL_Y2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 BLY2"
+		},
+		{
+			"Id": "ParamTassel_BL_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 BLX"
+		},
+		{
+			"Id": "ParamTassel_BL_X2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 BLX2"
+		},
+		{
+			"Id": "ParamTassel_BL_X3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 BLX3"
+		},
+		{
+			"Id": "ParamTassel_CL_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 CLY"
+		},
+		{
+			"Id": "ParamTassel_CL_Y2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 CLY2"
+		},
+		{
+			"Id": "ParamTassel_CL_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 CLX"
+		},
+		{
+			"Id": "ParamTassel_CL_X2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 CLX2"
+		},
+		{
+			"Id": "ParamTassel_CL_X3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 CLX3"
+		},
+		{
+			"Id": "ParamTassel_DL_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 DLY"
+		},
+		{
+			"Id": "ParamTassel_DL_Y2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 DLY2"
+		},
+		{
+			"Id": "ParamTassel_DL_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 DLX"
+		},
+		{
+			"Id": "ParamTassel_DL_X2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 DLX2"
+		},
+		{
+			"Id": "ParamTassel_DL_X3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 DLX3"
+		},
+		{
+			"Id": "ParamTassel_EL_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ELY"
+		},
+		{
+			"Id": "ParamTassel_EL_Y2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ELY2"
+		},
+		{
+			"Id": "ParamTassel_EL_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ELX"
+		},
+		{
+			"Id": "ParamTassel_EL_X2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ELX2"
+		},
+		{
+			"Id": "ParamTassel_EL_X3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ELX3"
+		},
+		{
+			"Id": "ParamYellowStripsL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 L"
+		},
+		{
+			"Id": "ParamYellowStripsL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 L2"
+		},
+		{
+			"Id": "ParamYellowStripsL3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 L3"
+		},
+		{
+			"Id": "ParamYellowStripsL4",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 L4"
+		},
+		{
+			"Id": "ParamYellowStripsL5",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 L5"
+		},
+		{
+			"Id": "ParamYellowStripsL6",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 L6"
+		},
+		{
+			"Id": "ParamYellowStripsL7",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 L7"
+		},
+		{
+			"Id": "ParamYellowStripsL8",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 L8"
+		},
+		{
+			"Id": "ParamYellowStripsL9",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 L9"
+		},
+		{
+			"Id": "ParamYellowStripsL10",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 L10"
+		},
+		{
+			"Id": "ParamTassel_AR_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ARY"
+		},
+		{
+			"Id": "ParamTassel_AR_Y2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ARY2"
+		},
+		{
+			"Id": "ParamTassel_AR_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ARX"
+		},
+		{
+			"Id": "ParamTassel_AR_X2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ARX2"
+		},
+		{
+			"Id": "ParamTassel_AR_X3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ARX3"
+		},
+		{
+			"Id": "ParamTassel_BR_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 BRY"
+		},
+		{
+			"Id": "ParamTassel_BR_Y2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 BRY2"
+		},
+		{
+			"Id": "ParamTassel_BR_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 BRX"
+		},
+		{
+			"Id": "ParamTassel_BR_X2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 BRX2"
+		},
+		{
+			"Id": "ParamTassel_BR_X3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 BRX3"
+		},
+		{
+			"Id": "ParamTassel_CR_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 CRY"
+		},
+		{
+			"Id": "ParamTassel_CR_Y2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 CRY2"
+		},
+		{
+			"Id": "ParamTassel_CR_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 CRX"
+		},
+		{
+			"Id": "ParamTassel_CR_X2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 CRX2"
+		},
+		{
+			"Id": "ParamTassel_CR_X3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 CRX3"
+		},
+		{
+			"Id": "ParamTassel_DR_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 DRY"
+		},
+		{
+			"Id": "ParamTassel_DR_Y2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 DRY2"
+		},
+		{
+			"Id": "ParamTassel_DR_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 DRX"
+		},
+		{
+			"Id": "ParamTassel_DR_X2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 DRX2"
+		},
+		{
+			"Id": "ParamTassel_DR_X3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 DRX3"
+		},
+		{
+			"Id": "ParamTassel_ER_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ERY"
+		},
+		{
+			"Id": "ParamTassel_ER_Y2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ERY2"
+		},
+		{
+			"Id": "ParamTassel_ER_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ERX"
+		},
+		{
+			"Id": "ParamTassel_ER_X2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ERX2"
+		},
+		{
+			"Id": "ParamTassel_ER_X3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 ERX3"
+		},
+		{
+			"Id": "ParamYellowStripsR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 R"
+		},
+		{
+			"Id": "ParamYellowStripsR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 R2"
+		},
+		{
+			"Id": "ParamYellowStripsR3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 R3"
+		},
+		{
+			"Id": "ParamYellowStripsR4",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 R4"
+		},
+		{
+			"Id": "ParamYellowStripsR5",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 R5"
+		},
+		{
+			"Id": "ParamYellowStripsR6",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 R6"
+		},
+		{
+			"Id": "ParamYellowStripsR7",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 R7"
+		},
+		{
+			"Id": "ParamYellowStripsR8",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 R8"
+		},
+		{
+			"Id": "ParamYellowStripsR9",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 R9"
+		},
+		{
+			"Id": "ParamYellowStripsR10",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　黃帶子 R10"
+		},
+		{
+			"Id": "ParamTippetStripR0",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶 R(引領用)"
+		},
+		{
+			"Id": "ParamTippetStripR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶 R"
+		},
+		{
+			"Id": "ParamTippetStripR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶 R2"
+		},
+		{
+			"Id": "ParamTippetStripR3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶 R3"
+		},
+		{
+			"Id": "ParamTippetStripR4",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶 R4"
+		},
+		{
+			"Id": "ParamBallR_Z",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　球 R_Z"
+		},
+		{
+			"Id": "ParamBallR_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　球 R_X"
+		},
+		{
+			"Id": "ParamBallR_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　球 R_Y"
+		},
+		{
+			"Id": "ParamBallR_Light_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　球光 R_X"
+		},
+		{
+			"Id": "ParamBallR_Light_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　球光 R_Y"
+		},
+		{
+			"Id": "ParamSmallBallR_Z2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　小球 R_Z"
+		},
+		{
+			"Id": "ParamTasselR_Z",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 R_Z"
+		},
+		{
+			"Id": "ParamTasselR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇R"
+		},
+		{
+			"Id": "ParamTasselR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇R2"
+		},
+		{
+			"Id": "ParamTippetStripL0",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶 L(引領用)"
+		},
+		{
+			"Id": "ParamTippetStripL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶 L"
+		},
+		{
+			"Id": "ParamTippetStripL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶 L2"
+		},
+		{
+			"Id": "ParamTippetStripL3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶 L3"
+		},
+		{
+			"Id": "ParamTippetStripL4",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶 L4"
+		},
+		{
+			"Id": "ParamTippetStripDownR0",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶放下手 R(引領用)"
+		},
+		{
+			"Id": "ParamTippetStripDownR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶放下手 R"
+		},
+		{
+			"Id": "ParamTippetStripDownR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶放下手 R2"
+		},
+		{
+			"Id": "ParamTippetStripDownR3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶放下手 R3"
+		},
+		{
+			"Id": "ParamTippetStripDownR4",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　披肩帶放下手 R4"
+		},
+		{
+			"Id": "ParamRaiseHandTippetStripR1",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　舉手披肩帶 R (引領用)"
+		},
+		{
+			"Id": "ParamRaiseHandTippetStripR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　舉手披肩帶 R"
+		},
+		{
+			"Id": "ParamRaiseHandTippetStripR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　舉手披肩帶 R2"
+		},
+		{
+			"Id": "ParamRaiseHandTippetStripR3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　舉手披肩帶 R3"
+		},
+		{
+			"Id": "ParamRaiseHandTippetStripR4",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　舉手披肩帶 R4"
+		},
+		{
+			"Id": "ParamRaiseHandTippetStripL0",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　舉手披肩帶 L (引領用)"
+		},
+		{
+			"Id": "ParamRaiseHandTippetStripL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　舉手披肩帶 L"
+		},
+		{
+			"Id": "ParamRaiseHandTippetStripL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　舉手披肩帶 L2"
+		},
+		{
+			"Id": "ParamRaiseHandTippetStripL3",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　舉手披肩帶 L3"
+		},
+		{
+			"Id": "ParamRaiseHandTippetStripL4",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　舉手披肩帶 L4"
+		},
+		{
+			"Id": "ParamBallL_Z",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　球 L_Z"
+		},
+		{
+			"Id": "ParamBallL_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　球 L_X"
+		},
+		{
+			"Id": "ParamBallL_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　球 L_Y"
+		},
+		{
+			"Id": "ParamDownBallR_Z",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　放下手 球 R_Z"
+		},
+		{
+			"Id": "ParamDownBallR_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　放下手 球 R_X"
+		},
+		{
+			"Id": "ParamDownBallR_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　放下手 球 R_Y"
+		},
+		{
+			"Id": "ParamBallL_Light_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　球光 L_X"
+		},
+		{
+			"Id": "ParamBallL_Light_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　球光 L_Y"
+		},
+		{
+			"Id": "ParamDownBallR_Light_X",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　放下手 球光 R_X"
+		},
+		{
+			"Id": "ParamDownBallR_Light_Y",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　放下手 球光 R_Y"
+		},
+		{
+			"Id": "ParamSmallBallL_Z",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　小球 L_Z"
+		},
+		{
+			"Id": "ParamTasselL_Z",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇 L_Z"
+		},
+		{
+			"Id": "ParamDownSmallBallR_Z",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　放下手 小球 R_Z"
+		},
+		{
+			"Id": "ParamDownTasselR_Z",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　放下手 流蘇 R_Z"
+		},
+		{
+			"Id": "ParamTasselL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇L"
+		},
+		{
+			"Id": "ParamTasselL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　流蘇L2"
+		},
+		{
+			"Id": "ParamDownTasselR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　放下手 流蘇R"
+		},
+		{
+			"Id": "ParamDownTasselL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　放下手 流蘇R2"
+		},
+		{
+			"Id": "ParamSleeveR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　袖子 R"
+		},
+		{
+			"Id": "ParamSleeveR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　袖子 R2"
+		},
+		{
+			"Id": "ParamSleeveL",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　袖子 L"
+		},
+		{
+			"Id": "ParamSleeveL2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　袖子 L2"
+		},
+		{
+			"Id": "ParamDownSleeveR",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　放下手 袖子 R"
+		},
+		{
+			"Id": "ParamDownSleeveR2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　放下手 袖子 R2"
+		},
+		{
+			"Id": "ParamStripsBackX",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後帶子X"
+		},
+		{
+			"Id": "ParamStripsBackX2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後帶子X2"
+		},
+		{
+			"Id": "ParamStripsBackY",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後帶子Y"
+		},
+		{
+			"Id": "ParamStripsBackY2",
+			"GroupId": "ParamGroup8",
+			"Name": "搖動　後帶子Y2"
+		},
+		{
+			"Id": "ParamRaiseHandSleeveL",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　舉手袖子L"
+		},
+		{
+			"Id": "ParamRaiseHandSleeveL2",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　舉手袖子L2"
+		},
+		{
+			"Id": "ParamSharkHandSleeveL",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　揮手袖子L"
+		},
+		{
+			"Id": "ParamSharkHandSleeveL2",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　揮手袖子L2"
+		},
+		{
+			"Id": "ParamSharkHandSleeveLAnim",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　揮手袖子L 動畫用"
+		},
+		{
+			"Id": "ParamSharkHandSleeveL2Anim",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　揮手袖子L2 動畫用"
+		},
+		{
+			"Id": "ParamFistHandSleeveL",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　握拳手袖子L"
+		},
+		{
+			"Id": "ParamFistHandSleeveL2",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　握拳手袖子L2"
+		},
+		{
+			"Id": "ParamCatHandSleeveL",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　貓貓手袖子L"
+		},
+		{
+			"Id": "ParamCatHandSleeveL2",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　貓貓手袖子L2"
+		},
+		{
+			"Id": "ParamRaiseHandSleeveTippetL",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　舉手袖子上的帶子L"
+		},
+		{
+			"Id": "ParamRaiseHandSleeveTippetL2",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　舉手袖子上的帶子L2"
+		},
+		{
+			"Id": "ParamRaiseHandSleeveTippetLAnim",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　舉手袖子上的帶子L 動畫用"
+		},
+		{
+			"Id": "ParamRaiseHandSleeveTippetL2Anim",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　舉手袖子上的帶子L2 動畫用"
+		},
+		{
+			"Id": "ParamHandWinkTogether",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　兩手一起晃動"
+		},
+		{
+			"Id": "ParamHandWinkTogether2",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　兩手一起晃動2"
+		},
+		{
+			"Id": "ParamRaiseHandSleeveR",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　舉手袖子R"
+		},
+		{
+			"Id": "ParamRaiseHandSleeveR2",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　舉手袖子R2"
+		},
+		{
+			"Id": "ParamSharkHandSleeveR",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　揮手袖子R"
+		},
+		{
+			"Id": "ParamSharkHandSleeveR2",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　揮手袖子R2"
+		},
+		{
+			"Id": "ParamSharkHandSleeveRAnim",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　揮手袖子R 動畫用"
+		},
+		{
+			"Id": "ParamSharkHandSleeveR2Anim",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　揮手袖子R2 動畫用"
+		},
+		{
+			"Id": "ParamFistHandSleeveR",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　握拳手袖子R"
+		},
+		{
+			"Id": "ParamFistHandSleeveR2",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　握拳手袖子R2"
+		},
+		{
+			"Id": "ParamCatHandSleeveR",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　貓貓手袖子R"
+		},
+		{
+			"Id": "ParamCatHandSleeveR2",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　貓貓手袖子R2"
+		},
+		{
+			"Id": "ParamArmR",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　手臂R"
+		},
+		{
+			"Id": "ParamElbowR",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　手軸R"
+		},
+		{
+			"Id": "ParamHandR",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　手腕R"
+		},
+		{
+			"Id": "ParamFingerR",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　手指R"
+		},
+		{
+			"Id": "ParamSleeveArmR",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　袖子手臂R"
+		},
+		{
+			"Id": "ParamSleeveElbowR",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　袖子手軸R"
+		},
+		{
+			"Id": "ParamSleeveHandR",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　袖子手腕R"
+		},
+		{
+			"Id": "ParamArmL",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　手臂L"
+		},
+		{
+			"Id": "ParamElbowL",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　手軸L"
+		},
+		{
+			"Id": "ParamHandL",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　手腕L"
+		},
+		{
+			"Id": "ParamFingerL",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　手指L"
+		},
+		{
+			"Id": "ParamSleeveArmL",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　袖子手臂L"
+		},
+		{
+			"Id": "ParamSleeveHandL",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　袖子手腕L"
+		},
+		{
+			"Id": "ParamDownSleeveArmR",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　放下手 袖子手臂R"
+		},
+		{
+			"Id": "ParamDownSleeveHandR",
+			"GroupId": "ParamGroup9",
+			"Name": "搖動　放下手 袖子手腕R"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "開關"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "動畫"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "遊戲手把"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "XYZ"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "嘴巴"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "物理"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "手部物理"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part10",
+			"Name": "揮手手 動畫用"
+		},
+		{
+			"Id": "Part15",
+			"Name": "遊戲手把"
+		},
+		{
+			"Id": "Part29",
+			"Name": "托下巴手"
+		},
+		{
+			"Id": "Part28",
+			"Name": "喝奶茶手"
+		},
+		{
+			"Id": "Part27",
+			"Name": "揮手"
+		},
+		{
+			"Id": "Part16",
+			"Name": "貓貓手"
+		},
+		{
+			"Id": "expression",
+			"Name": "expression"
+		},
+		{
+			"Id": "Part3",
+			"Name": "replacement tippet_front"
+		},
+		{
+			"Id": "Part4",
+			"Name": "replacement hands"
+		},
+		{
+			"Id": "Part22",
+			"Name": "tippet"
+		},
+		{
+			"Id": "Part25",
+			"Name": "jacket"
+		},
+		{
+			"Id": "Part",
+			"Name": "宮廟少女_旗袍裙子調整.psd"
+		},
+		{
+			"Id": "Part8",
+			"Name": "舉手後垂下的帶子"
+		},
+		{
+			"Id": "Part2",
+			"Name": "前法"
+		},
+		{
+			"Id": "Part75",
+			"Name": "midle hair"
+		},
+		{
+			"Id": "Part42",
+			"Name": "宮廟少女_頭髮陰影.psd"
+		},
+		{
+			"Id": "head",
+			"Name": "head"
+		},
+		{
+			"Id": "L_ear",
+			"Name": "L_ear"
+		},
+		{
+			"Id": "R_ear",
+			"Name": "R_ear"
+		},
+		{
+			"Id": "neck",
+			"Name": "neck"
+		},
+		{
+			"Id": "Part65",
+			"Name": "collar back"
+		},
+		{
+			"Id": "L_leg2",
+			"Name": "L_leg"
+		},
+		{
+			"Id": "R_leg2",
+			"Name": "R_leg"
+		},
+		{
+			"Id": "body",
+			"Name": "body"
+		},
+		{
+			"Id": "Part37",
+			"Name": "R sleeve"
+		},
+		{
+			"Id": "Part74",
+			"Name": "arm R"
+		},
+		{
+			"Id": "Part45",
+			"Name": "後法"
+		},
+		{
+			"Id": "Part79",
+			"Name": "L_sleeve"
+		},
+		{
+			"Id": "Part23",
+			"Name": "R 收手時"
+		},
+		{
+			"Id": "Part44",
+			"Name": "放下手R"
+		},
+		{
+			"Id": "Part80",
+			"Name": "arm L"
+		},
+		{
+			"Id": "R_yellow_strips2",
+			"Name": "L_yellow_strips(複製)"
+		},
+		{
+			"Id": "R_yellow_strips",
+			"Name": "R_yellow_strips"
+		},
+		{
+			"Id": "Part81",
+			"Name": "tippet  back"
+		},
+		{
+			"Id": "Part30",
+			"Name": "L"
+		},
+		{
+			"Id": "Part31",
+			"Name": "L"
+		},
+		{
+			"Id": "Part32",
+			"Name": "L"
+		},
+		{
+			"Id": "Part33",
+			"Name": "L"
+		},
+		{
+			"Id": "Part34",
+			"Name": "L"
+		},
+		{
+			"Id": "Part5",
+			"Name": "replacement sleeves"
+		},
+		{
+			"Id": "Part9",
+			"Name": "chin rest hands"
+		},
+		{
+			"Id": "Part12",
+			"Name": "kitten hands"
+		},
+		{
+			"Id": "Part13",
+			"Name": "gaming hands"
+		},
+		{
+			"Id": "Part17",
+			"Name": "holdding hands"
+		},
+		{
+			"Id": "Part19",
+			"Name": "waving hands"
+		},
+		{
+			"Id": "Part20",
+			"Name": "thinking hand"
+		},
+		{
+			"Id": "fist",
+			"Name": "fist"
+		},
+		{
+			"Id": "Part21",
+			"Name": "replacement sleeves back"
+		},
+		{
+			"Id": "L6",
+			"Name": "L"
+		},
+		{
+			"Id": "R6",
+			"Name": "R"
+		},
+		{
+			"Id": "collar",
+			"Name": "collar"
+		},
+		{
+			"Id": "Part36",
+			"Name": "R"
+		},
+		{
+			"Id": "Part35",
+			"Name": "L"
+		},
+		{
+			"Id": "Part59",
+			"Name": "表情"
+		},
+		{
+			"Id": "L_eye2",
+			"Name": "R_eye(複製)"
+		},
+		{
+			"Id": "L_eye",
+			"Name": "L_eye"
+		},
+		{
+			"Id": "nose",
+			"Name": "nose"
+		},
+		{
+			"Id": "mouth",
+			"Name": "mouth"
+		},
+		{
+			"Id": "face",
+			"Name": "face"
+		},
+		{
+			"Id": "shoe",
+			"Name": "shoe"
+		},
+		{
+			"Id": "leg_red2",
+			"Name": "leg_red"
+		},
+		{
+			"Id": "Part43",
+			"Name": "SHOE R"
+		},
+		{
+			"Id": "Leg_red2",
+			"Name": "Leg_red"
+		},
+		{
+			"Id": "Part38",
+			"Name": "R sleeve_low"
+		},
+		{
+			"Id": "Part40",
+			"Name": "R sleeve_Mid"
+		},
+		{
+			"Id": "Part41",
+			"Name": "R sleeve_UP"
+		},
+		{
+			"Id": "L7",
+			"Name": "L 收手時"
+		},
+		{
+			"Id": "L_sleeve_white",
+			"Name": "L_sleeve_white"
+		},
+		{
+			"Id": "wristband",
+			"Name": "wristband"
+		},
+		{
+			"Id": "strips_tassel3",
+			"Name": "strips_tassel"
+		},
+		{
+			"Id": "strips_tassel2",
+			"Name": "strips_tassel"
+		},
+		{
+			"Id": "Part6",
+			"Name": "L replacement sleeves"
+		},
+		{
+			"Id": "Part7",
+			"Name": "R replacement sleeves"
+		},
+		{
+			"Id": "Part11",
+			"Name": "R chin rest hands"
+		},
+		{
+			"Id": "L2",
+			"Name": "L"
+		},
+		{
+			"Id": "L3",
+			"Name": "L"
+		},
+		{
+			"Id": "gamepad",
+			"Name": "gamepad"
+		},
+		{
+			"Id": "thumb",
+			"Name": "thumb"
+		},
+		{
+			"Id": "cup",
+			"Name": "cup"
+		},
+		{
+			"Id": "R5",
+			"Name": "R"
+		},
+		{
+			"Id": "Part26",
+			"Name": "R_ball _tassel"
+		},
+		{
+			"Id": "Part24",
+			"Name": "R_ball _tassel"
+		},
+		{
+			"Id": "Part62",
+			"Name": "L_iris"
+		},
+		{
+			"Id": "Part61",
+			"Name": "L_iris"
+		},
+		{
+			"Id": "Part82",
+			"Name": "pout line"
+		},
+		{
+			"Id": "teeth",
+			"Name": "teeth"
+		},
+		{
+			"Id": "Part39",
+			"Name": "R sleeve  parttern"
+		},
+		{
+			"Id": "R_sleeve_parttern_up",
+			"Name": "R_sleeve_parttern_up"
+		},
+		{
+			"Id": "Part14",
+			"Name": "gamepad emoji"
+		},
+		{
+			"Id": "drink",
+			"Name": "drink"
+		},
+		{
+			"Id": "L9",
+			"Name": "L"
+		},
+		{
+			"Id": "R9",
+			"Name": "R"
+		},
+		{
+			"Id": "Part18",
+			"Name": "bubble tea"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamSweatB",
+			"ParamSweatC"
+		],
+		[
+			"ParamMushroomHeadLX",
+			"ParamMushroomHeadLY"
+		],
+		[
+			"ParamMushroomHeadRX",
+			"ParamMushroomHeadRY"
+		],
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamBodyAngleX",
+			"ParamBodyAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}

@@ -1,0 +1,96 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 3,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": false,
+		"CurveCount": 4,
+		"TotalSegmentCount": 16,
+		"TotalPointCount": 20,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamSweat",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.5,
+				1,
+				0,
+				3,
+				2
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamSweatA",
+			"Segments": [
+				0,
+				0,
+				0,
+				0.167,
+				0,
+				0,
+				0.883,
+				1,
+				0,
+				1.167,
+				1,
+				0,
+				1.933,
+				2,
+				0,
+				2.167,
+				2,
+				0,
+				2.833,
+				3,
+				0,
+				3,
+				3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamSweatB",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.25,
+				1,
+				0,
+				1.5,
+				1,
+				0,
+				2.75,
+				2,
+				0,
+				3,
+				2
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamSweatC",
+			"Segments": [
+				0,
+				0,
+				0,
+				0.867,
+				0,
+				0,
+				2.583,
+				0.6,
+				0,
+				3,
+				1
+			]
+		}
+	]
+}
