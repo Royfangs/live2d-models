@@ -1,0 +1,29 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "和服少女高解析度.moc3",
+		"Textures": [
+			"和服少女高解析度.8192/texture_00.png",
+			"和服少女高解析度.8192/texture_01.png",
+			"和服少女高解析度.8192/texture_02.png",
+			"和服少女高解析度.8192/texture_03.png"
+		],
+		"Physics": "和服少女高解析度.physics3.json",
+		"DisplayInfo": "和服少女高解析度.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
