@@ -15,10 +15,6 @@
 			{
 				"Name": "start eye",
 				"File": "星星眼.exp3.json"
-			},
-			{
-				"Name": "shy face",
-				"File": "臉紅.exp3.json"
 			}
 		],
 		"Motions": {
