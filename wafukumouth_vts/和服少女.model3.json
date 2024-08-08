@@ -6,7 +6,20 @@
 			"和服少女.4096/texture_00.png"
 		],
 		"Physics": "和服少女.physics3.json",
-		"DisplayInfo": "和服少女.cdi3.json"
+		"DisplayInfo": "和服少女.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "heart eye",
+				"File": "愛心眼.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "idle.motion3.json"
+				}
+			]
+		}
 	},
 	"Groups": [
 		{
