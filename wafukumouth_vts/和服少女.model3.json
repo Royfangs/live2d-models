@@ -11,6 +11,22 @@
 			{
 				"Name": "heart eye",
 				"File": "愛心眼.exp3.json"
+			},
+			{
+				"Name": "start eye",
+				"File": "星星眼.exp3.json"
+			},
+			{
+				"Name": "shy face",
+				"File": "臉紅.exp3.json"
+			},
+			{
+				"Name": "open hair",
+				"File": "開關毛.exp3.json"
+			},
+			{
+				"Name": "black face",
+				"File": "黑臉.exp3.json"
 			}
 		],
 		"Motions": {
