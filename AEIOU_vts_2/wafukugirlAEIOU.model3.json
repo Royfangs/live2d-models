@@ -1,0 +1,29 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "wafukugirlAEIOU.moc3",
+		"Textures": [
+			"wafukugirlAEIOU.8192/texture_00.png",
+			"wafukugirlAEIOU.8192/texture_01.png",
+			"wafukugirlAEIOU.8192/texture_02.png",
+			"wafukugirlAEIOU.8192/texture_03.png"
+		],
+		"Physics": "wafukugirlAEIOU.physics3.json",
+		"DisplayInfo": "wafukugirlAEIOU.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}
