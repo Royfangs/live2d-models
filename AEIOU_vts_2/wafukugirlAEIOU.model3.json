@@ -9,7 +9,36 @@
 			"wafukugirlAEIOU.8192/texture_03.png"
 		],
 		"Physics": "wafukugirlAEIOU.physics3.json",
-		"DisplayInfo": "wafukugirlAEIOU.cdi3.json"
+		"DisplayInfo": "wafukugirlAEIOU.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "paramA",
+				"File": "A.exp3.json"
+			},
+			{
+				"Name": "paramE",
+				"File": "E.exp3.json"
+			},
+			{
+				"Name": "paramI",
+				"File": "I.exp3.json"
+			},
+			{
+				"Name": "paramO",
+				"File": "O.exp3.json"
+			},
+			{
+				"Name": "paramU",
+				"File": "U.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "星星眼.exp3.json"
+				}
+			]
+		}
 	},
 	"Groups": [
 		{
