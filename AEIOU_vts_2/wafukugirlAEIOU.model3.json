@@ -13,29 +13,29 @@
 		"Expressions": [
 			{
 				"Name": "paramA",
-				"File": "A.exp3.json"
+				"File": "./A.exp3.json"
 			},
 			{
 				"Name": "paramE",
-				"File": "E.exp3.json"
+				"File": "./E.exp3.json"
 			},
 			{
 				"Name": "paramI",
-				"File": "I.exp3.json"
+				"File": "./I.exp3.json"
 			},
 			{
 				"Name": "paramO",
-				"File": "O.exp3.json"
+				"File": "./O.exp3.json"
 			},
 			{
 				"Name": "paramU",
-				"File": "U.exp3.json"
+				"File": "./U.exp3.json"
 			}
 		],
 		"Motions": {
 			"": [
 				{
-					"File": "星星眼.exp3.json"
+					"File": "./星星眼.exp3.json"
 				}
 			]
 		}
