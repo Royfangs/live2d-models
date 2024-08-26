@@ -101,10 +101,7 @@
 					"File": "CRY.motion3.json"
 				},
 				{
-					"File": "motions/doze off.motion3.json"
-				},
-				{
-					"File": "motions/05_otikomu.motion3.json"
+					"File": "doze off.motion3.json"
 				}
 			]
 		}
