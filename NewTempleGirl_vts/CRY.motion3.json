@@ -1,0 +1,118 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 2,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 6,
+		"TotalSegmentCount": 10,
+		"TotalPointCount": 28,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamCheek5",
+			"Segments": [
+				0,
+				1,
+				0,
+				2,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamCheek7",
+			"Segments": [
+				0,
+				1,
+				0,
+				2,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamCheek16",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.139,
+				0,
+				0.278,
+				0.113,
+				0.417,
+				0.2,
+				1,
+				0.778,
+				0.427,
+				1.139,
+				0.578,
+				1.5,
+				0.8,
+				1,
+				1.667,
+				0.902,
+				1.833,
+				1,
+				2,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamCheek17",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.194,
+				0,
+				0.389,
+				0.086,
+				0.583,
+				0.2,
+				1,
+				0.95,
+				0.415,
+				1.317,
+				0.571,
+				1.683,
+				0.8,
+				1,
+				1.789,
+				0.866,
+				1.894,
+				1,
+				2,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowLForm",
+			"Segments": [
+				0,
+				1,
+				0,
+				2,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowRForm",
+			"Segments": [
+				0,
+				1,
+				0,
+				2,
+				1
+			]
+		}
+	]
+}

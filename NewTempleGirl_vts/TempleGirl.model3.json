@@ -1,0 +1,34 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "TempleGirl.moc3",
+		"Textures": [
+			"TempleGirl.8192/texture_00.png",
+			"TempleGirl.8192/texture_01.png",
+			"TempleGirl.8192/texture_02.png",
+			"TempleGirl.8192/texture_03.png",
+			"TempleGirl.8192/texture_04.png",
+			"TempleGirl.8192/texture_05.png",
+			"TempleGirl.8192/texture_06.png",
+			"TempleGirl.8192/texture_07.png",
+			"TempleGirl.8192/texture_08.png"
+		],
+		"Physics": "TempleGirl.physics3.json",
+		"DisplayInfo": "TempleGirl.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}
