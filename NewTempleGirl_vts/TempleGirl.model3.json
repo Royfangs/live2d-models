@@ -14,7 +14,100 @@
 			"TempleGirl.8192/texture_08.png"
 		],
 		"Physics": "TempleGirl.physics3.json",
-		"DisplayInfo": "TempleGirl.cdi3.json"
+		"DisplayInfo": "TempleGirl.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "thinkingHand",
+				"File": "thinking hand.exp3"
+			},
+			{
+				"Name": "wavingHands",
+				"File": "waving hands.exp3.json"
+			},
+			{
+				"Name": "starEyes",
+				"File": "stareyes.exp3.json"
+			},
+			{
+				"Name": "sock",
+				"File": "sock.exp3.json"
+			},
+			{
+				"Name": "smallWweat",
+				"File": "smallsweat.exp3.json"
+			},
+			{
+				"Name": "legX",
+				"File": "legX.exp3.json"
+			},
+			{
+				"Name": "kittenHands",
+				"File": "kitten hands.exp3.json"
+			},
+			{
+				"Name": "holddingHands",
+				"File": "holdding hands.exp3.json"
+			},
+			{
+				"Name": "HendX",
+				"File": "HendX.exp3.json"
+			},
+			{
+				"Name": "greanTea",
+				"File": "grean tea.exp3.json"
+			},
+			{
+				"Name": "gamingHands",
+				"File": "gaming hands.exp3.json"
+			},
+			{
+				"Name": "Coat",
+				"File": "Coat.exp3.json"
+			},
+			{
+				"Name": "chinRestHands",
+				"File": "chin rest hands.exp3.json"
+			},
+			{
+				"Name": "Cheekpuff",
+				"File": "Cheekpuff.exp3.json"
+			},
+			{
+				"Name": "blush",
+				"File": "blush.exp3.json"
+			},
+			{
+				"Name": "bigweat",
+				"File": "bigweat.exp3.json"
+			},
+			{
+				"Name": "BIGBlush",
+				"File": "BIG blush.exp3.json"
+			},
+			{
+				"Name": "Angry",
+				"File": "Angry.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "WAVING.motion3.json"
+				},
+				{
+					"File": "BIG CRY.motion3.json"
+				},
+				{
+					"File": "CRY.motion3.json"
+				},
+				{
+					"File": "motions/doze off.motion3.json"
+				},
+				{
+					"File": "motions/05_otikomu.motion3.json"
+				}
+			]
+		}
 	},
 	"Groups": [
 		{
